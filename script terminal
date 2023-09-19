@@ -29,5 +29,6 @@ mv imagen1.jpg ./Mover_Imagen1_Aqui
 tree ./ > estructura.txt
 echo "El profe rifa y lo tqm" >> estructura.txt 
 
+#evidencia del Historial esta dentro de doc Taller_RetoEnTerminal.docx en este repositorio y tambien en el doc Historial.txt
 
 
