@@ -1,0 +1,9 @@
+./
+|-- Archivos
+|   |-- Copia_Texto_Plano.txt
+|   `-- Texto_Plano.txt
+|-- Mover_Imagen1_Aqui
+|   `-- imagen1.jpg
+`-- estructura.txt
+
+2 directories, 4 files
